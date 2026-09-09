@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=ParkSiYeol3&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=ParkSiYeol3&show_icons=true&hide=stars&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=ParkSiYeol3&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" />
 
 </div>
