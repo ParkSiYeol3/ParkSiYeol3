@@ -12,19 +12,71 @@
 
 ---
 
-<div align="center">
-
 ### 🚀 Projects
 
-<a href="https://github.com/ParkSiYeol3/wabi-sabi"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=ParkSiYeol3&repo=wabi-sabi&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" /></a>
-<a href="https://github.com/star-art-for-children/Frontend"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=star-art-for-children&repo=Frontend&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" /></a>
+<table width="100%">
 
-<a href="https://github.com/MENHERING/menhering-app"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=MENHERING&repo=menhering-app&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" /></a>
-<a href="https://github.com/V-MoongCheap/MoongCheap-frontend"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=V-MoongCheap&repo=MoongCheap-frontend&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" /></a>
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://github.com/ParkSiYeol3/wabi-sabi"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-wabi-sabi.png" width="46" /></a>
+</td>
+<td valign="top">
 
-<a href="https://github.com/ParkSiYeol3/LastDance"><img width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=ParkSiYeol3&repo=LastDance&bg_color=00000000&hide_border=true&title_color=3B82F6&text_color=8B949E&icon_color=3B82F6" /></a>
+**[WABI-SABI](https://github.com/ParkSiYeol3/wabi-sabi)** &nbsp;·&nbsp; 1인 개발 &nbsp;·&nbsp; [wasa.kr](https://wasa.kr) 운영 중
 
-</div>
+기물과 오브제를 파는 커머스. 사업 중인 대표님께 직접 연락해 제작을 제안하며 시작했고, 기획·개발·결제 연동·운영까지 혼자 맡고 있습니다.
+
+<sub>`Next.js` `TypeScript` `Supabase` `Tailwind` `Toss Payments` `Playwright` &nbsp;—&nbsp; 머지된 PR 524 · 12주 · 마이그레이션 61개 · 실결제 운영 중</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://github.com/star-art-for-children/Frontend"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-star-art.png" width="46" /></a>
+</td>
+<td valign="top">
+
+**[Star-art](https://github.com/star-art-for-children/Frontend)** &nbsp;·&nbsp; 팀장 &nbsp;·&nbsp; kt cloud TECH UP 2기
+
+아이들 그림을 3D 가상 전시관에 거는 미술 전시 플랫폼. 4명으로 시작해 3명으로 완주했습니다. 작품 액자 렌더링, 관람 앨범 PDF 생성기, 스탬프북·업적, 그림을 5초 영상으로 바꾸는 fal.ai 파이프라인을 맡았습니다.
+
+<sub>`Next.js` `TypeScript` `three.js / R3F` `Supabase` &nbsp;—&nbsp; CPU 6배 저하 환경에서 109 FPS · 내 PR 34건 / 팀원 PR 리뷰 48건</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://github.com/MENHERING/menhering-app"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-menhering.png" width="46" /></a>
+</td>
+<td valign="top">
+
+**[멘헤링](https://github.com/MENHERING/menhering-app)** &nbsp;·&nbsp; FE 4인 &nbsp;·&nbsp; kt cloud TECH UP 2기
+
+습관 형성 PWA. 카카오 OIDC를 라이브러리 없이 3파일 232줄로 직접 구현했습니다. nonce 원본은 서버 쿠키에 두고 카카오에는 해시만 보낸 뒤 id_token 검증 때 대조합니다. 홈·알림, 온보딩 레벨테스트, 사운드 시스템 담당.
+
+<sub>`Next.js` `TypeScript` `Tailwind v4` `Zustand` `TanStack Query` `Supabase` `Serwist` &nbsp;—&nbsp; Lighthouse Best Practices 100 · CLS 0 · TBT 0ms</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://github.com/V-MoongCheap/MoongCheap-frontend"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-moongcheap.png" width="46" /></a>
+</td>
+<td valign="top">
+
+**[뭉치](https://github.com/V-MoongCheap/MoongCheap-frontend)** &nbsp;·&nbsp; FE 2인 &nbsp;·&nbsp; 현재 진행 중
+
+수요를 모아 역경매로 붙이는 공동구매 플랫폼. 8개 파트가 함께 만드는 통합 프로젝트의 프론트엔드입니다. 페이지·도메인·공용 UI 단방향 4계층 구조, 2단 CSS 변수 디자인 토큰, 커밋 컨벤션·CI·AI 코드리뷰 파이프라인을 세팅했습니다.
+
+<sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `react-hook-form` &nbsp;—&nbsp; 컴포넌트 수정 없이 다크모드 · CodeRabbit 신호/잡음 튜닝</sub>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -38,7 +90,7 @@
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" /> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" /> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" /> <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
 
 **Backend · DB**
 
