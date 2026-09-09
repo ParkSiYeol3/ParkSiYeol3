@@ -76,6 +76,21 @@
 </td>
 </tr>
 
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://github.com/ParkSiYeol3/LastDance"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-lastdance.png" width="46" /></a>
+</td>
+<td valign="top">
+
+**[이거옷대여](https://github.com/ParkSiYeol3/LastDance)** &nbsp;·&nbsp; 4인 &nbsp;·&nbsp; 졸업 프로젝트 &nbsp;·&nbsp; 특허 출원
+
+개인 간 의류 대여 앱(React Native). 과기부 SW중심대학 국가연구개발사업 과제입니다. 마이페이지·리뷰·찜·최근 본 상품, 사용자의 활동과 평판이 쌓이는 화면을 담당했습니다.
+
+<sub>`React Native (Expo)` `JavaScript` `Node.js` `Firebase` &nbsp;-&nbsp; 특허 출원 10-2025-0071874 발명자 5인 중 1인 · 저작권 등록 C-2025-024297</sub>
+
+</td>
+</tr>
+
 </table>
 
 ---
