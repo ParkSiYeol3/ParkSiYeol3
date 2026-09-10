@@ -24,9 +24,9 @@
 
 **[WABI-SABI](https://github.com/ParkSiYeol3/wabi-sabi)** &nbsp;·&nbsp; 1인 개발 &nbsp;·&nbsp; [wasa.kr](https://wasa.kr) 운영 중
 
-기물과 오브제를 파는 커머스. 사업 중인 대표님께 직접 연락해 제작을 제안하며 시작했고, 기획·개발·결제 연동·운영까지 혼자 맡고 있습니다.
+오래 곁에 두고 싶은 기물과 오브제를 큐레이션합니다.
 
-<sub>`Next.js` `TypeScript` `Supabase` `Tailwind` `Toss Payments` `Playwright` &nbsp;-&nbsp; 머지된 PR 524 · 12주 · 마이그레이션 61개 · 실결제 운영 중</sub>
+<sub>`Next.js` `TypeScript` `Supabase` `Tailwind` `Toss Payments` `Playwright`<br>기획·개발·결제·운영 전부 담당 &nbsp;·&nbsp; 머지된 PR 524 &nbsp;·&nbsp; 12주 &nbsp;·&nbsp; 실결제 운영 중</sub>
 
 </td>
 </tr>
@@ -39,9 +39,9 @@
 
 **[Star-art](https://github.com/star-art-for-children/Frontend)** &nbsp;·&nbsp; 팀장 &nbsp;·&nbsp; kt cloud TECH UP 2기
 
-아이들 그림을 3D 가상 전시관에 거는 미술 전시 플랫폼. 4명으로 시작해 3명으로 완주했습니다. 작품 액자 렌더링, 관람 앨범 PDF 생성기, 스탬프북·업적, 그림을 5초 영상으로 바꾸는 fal.ai 파이프라인을 맡았습니다.
+아이들을 위한 미술 전시회 — 그림을 3D 전시관에 겁니다.
 
-<sub>`Next.js` `TypeScript` `three.js / R3F` `Supabase` &nbsp;-&nbsp; CPU 6배 저하 환경에서 109 FPS · 내 PR 34건 / 팀원 PR 리뷰 48건</sub>
+<sub>`Next.js` `TypeScript` `three.js / R3F` `Supabase`<br>액자 렌더링 · 앨범 PDF · 스탬프북 · fal.ai 영상 파이프라인 &nbsp;·&nbsp; CPU 6배 저하에서 109 FPS</sub>
 
 </td>
 </tr>
@@ -54,9 +54,9 @@
 
 **[멘헤링](https://github.com/MENHERING/menhering-app)** &nbsp;·&nbsp; FE 4인 &nbsp;·&nbsp; kt cloud TECH UP 2기
 
-습관 형성 PWA. 카카오 OIDC를 라이브러리 없이 3파일 232줄로 직접 구현했습니다. nonce 원본은 서버 쿠키에 두고 카카오에는 해시만 보낸 뒤 id_token 검증 때 대조합니다. 홈·알림, 온보딩 레벨테스트, 사운드 시스템 담당.
+나만의 캐릭터와 함께하는 학습 — 습관 형성 PWA.
 
-<sub>`Next.js` `TypeScript` `Tailwind v4` `Zustand` `TanStack Query` `Supabase` `Serwist` &nbsp;-&nbsp; Lighthouse Best Practices 100 · CLS 0 · TBT 0ms</sub>
+<sub>`Next.js` `TypeScript` `Tailwind v4` `Zustand` `TanStack Query` `Supabase` `Serwist`<br>카카오 OIDC 232줄 직접 구현 · 홈·알림 · 사운드 시스템 &nbsp;·&nbsp; Lighthouse BP 100 · CLS 0</sub>
 
 </td>
 </tr>
@@ -69,9 +69,9 @@
 
 **[뭉치](https://github.com/V-MoongCheap/MoongCheap-frontend)** &nbsp;·&nbsp; FE 2인 &nbsp;·&nbsp; 현재 진행 중
 
-수요를 모아 역경매로 붙이는 공동구매 플랫폼. 8개 파트가 함께 만드는 통합 프로젝트의 프론트엔드입니다. 페이지·도메인·공용 UI 단방향 4계층 구조, 2단 CSS 변수 디자인 토큰, 커밋 컨벤션·CI·AI 코드리뷰 파이프라인을 세팅했습니다.
+뭉치면 싸진다 — 수요 집결형 공동구매 플랫폼.
 
-<sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `react-hook-form` &nbsp;-&nbsp; 컴포넌트 수정 없이 다크모드 · CodeRabbit 신호/잡음 튜닝</sub>
+<sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `react-hook-form`<br>초기 4계층 아키텍처 · 디자인 토큰 · CI · AI 코드리뷰 세팅 &nbsp;·&nbsp; 8개 파트 통합 프로젝트</sub>
 
 </td>
 </tr>
@@ -84,9 +84,9 @@
 
 **[이거옷대여](https://github.com/ParkSiYeol3/LastDance)** &nbsp;·&nbsp; 4인 &nbsp;·&nbsp; 졸업 프로젝트 &nbsp;·&nbsp; 특허 출원
 
-개인 간 의류 대여 앱(React Native). 과기부 SW중심대학 국가연구개발사업 과제입니다. 마이페이지·리뷰·찜·최근 본 상품, 사용자의 활동과 평판이 쌓이는 화면을 담당했습니다.
+개인 간 의류를 빌려주고 빌리는 플랫폼.
 
-<sub>`React Native (Expo)` `JavaScript` `Node.js` `Firebase` &nbsp;-&nbsp; 특허 출원 10-2025-0071874 발명자 5인 중 1인 · 저작권 등록 C-2025-024297</sub>
+<sub>`React Native (Expo)` `JavaScript` `Node.js` `Firebase`<br>마이페이지 · 리뷰 · 찜 담당 &nbsp;·&nbsp; 특허 출원 10-2025-0071874 &nbsp;·&nbsp; 저작권 C-2025-024297</sub>
 
 </td>
 </tr>
