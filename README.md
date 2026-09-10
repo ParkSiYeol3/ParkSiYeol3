@@ -24,7 +24,7 @@
 
 **[WABI-SABI](https://github.com/ParkSiYeol3/wabi-sabi)** &nbsp;·&nbsp; 1인 개발 &nbsp;·&nbsp; [wasa.kr](https://wasa.kr) 운영 중
 
-오래 곁에 두고 싶은 기물과 오브제를 큐레이션합니다.
+오래 곁에 두고 싶은 기물과 오브제를 큐레이션합니다
 
 <sub>`Next.js` `TypeScript` `Supabase` `Tailwind` `Toss Payments` `Playwright`<br>기획·개발·결제·운영 전부 담당 &nbsp;·&nbsp; 머지된 PR 524 &nbsp;·&nbsp; 12주 &nbsp;·&nbsp; 실결제 운영 중</sub>
 
@@ -39,7 +39,7 @@
 
 **[Star-art](https://github.com/star-art-for-children/Frontend)** &nbsp;·&nbsp; 팀장 &nbsp;·&nbsp; kt cloud TECH UP 2기
 
-아이들을 위한 미술 전시회 — 그림을 3D 전시관에 겁니다.
+아이들을 위한 3D 미술 전시회
 
 <sub>`Next.js` `TypeScript` `three.js / R3F` `Supabase`<br>액자 렌더링 · 앨범 PDF · 스탬프북 · fal.ai 영상 파이프라인 &nbsp;·&nbsp; CPU 6배 저하에서 109 FPS</sub>
 
@@ -54,7 +54,7 @@
 
 **[멘헤링](https://github.com/MENHERING/menhering-app)** &nbsp;·&nbsp; FE 4인 &nbsp;·&nbsp; kt cloud TECH UP 2기
 
-나만의 캐릭터와 함께하는 학습 — 습관 형성 PWA.
+나만의 캐릭터와 함께하는 학습 습관 형성 PWA
 
 <sub>`Next.js` `TypeScript` `Tailwind v4` `Zustand` `TanStack Query` `Supabase` `Serwist`<br>카카오 OIDC 232줄 직접 구현 · 홈·알림 · 사운드 시스템 &nbsp;·&nbsp; Lighthouse BP 100 · CLS 0</sub>
 
@@ -69,7 +69,7 @@
 
 **[뭉치](https://github.com/V-MoongCheap/MoongCheap-frontend)** &nbsp;·&nbsp; FE 2인 &nbsp;·&nbsp; 현재 진행 중
 
-뭉치면 싸진다 — 수요 집결형 공동구매 플랫폼.
+뭉치면 싸진다 (수요 집결형 공동구매 플랫폼)
 
 <sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `react-hook-form`<br>초기 4계층 아키텍처 · 디자인 토큰 · CI · AI 코드리뷰 세팅 &nbsp;·&nbsp; 8개 파트 통합 프로젝트</sub>
 
@@ -84,7 +84,7 @@
 
 **[이거옷대여](https://github.com/ParkSiYeol3/LastDance)** &nbsp;·&nbsp; 4인 &nbsp;·&nbsp; 졸업 프로젝트 &nbsp;·&nbsp; 특허 출원
 
-개인 간 의류를 빌려주고 빌리는 플랫폼.
+P2P 옷 대여 플랫폼
 
 <sub>`React Native (Expo)` `JavaScript` `Node.js` `Firebase`<br>마이페이지 · 리뷰 · 찜 담당 &nbsp;·&nbsp; 특허 출원 10-2025-0071874 &nbsp;·&nbsp; 저작권 C-2025-024297</sub>
 
