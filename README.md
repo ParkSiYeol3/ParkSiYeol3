@@ -78,11 +78,11 @@
 
 <tr>
 <td width="64" align="center" valign="top">
-<a href="https://github.com/ParkSiYeol3/LastDance"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-lastdance.png" width="46" /></a>
+<img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-lastdance.png" width="46" />
 </td>
 <td valign="top">
 
-**[이거옷대여](https://github.com/ParkSiYeol3/LastDance)** &nbsp;·&nbsp; 4인 &nbsp;·&nbsp; 졸업 프로젝트 &nbsp;·&nbsp; 특허 출원
+**이거옷대여** &nbsp;·&nbsp; 4인 &nbsp;·&nbsp; 졸업 프로젝트 &nbsp;·&nbsp; 특허 출원
 
 P2P 옷 대여 플랫폼
 
