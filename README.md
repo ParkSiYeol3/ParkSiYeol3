@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=21&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=%ED%98%BC%EC%9E%90%20%EB%A7%8C%EB%93%A0%20%EC%BB%A4%EB%A8%B8%EC%8A%A4%EB%A5%BC%20%EC%8B%A4%EC%A0%9C%EB%A1%9C%20%EC%9A%B4%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4%3B%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80%20%EB%A7%8C%EC%A7%80%EB%8A%94%20%EB%A7%88%EC%A7%80%EB%A7%89%201cm%EC%97%90%20%EC%A7%91%EC%B0%A9%ED%95%A9%EB%8B%88%EB%8B%A4%3B%EC%A6%9D%EC%83%81%EC%9D%B4%20%EC%95%84%EB%8B%88%EB%9D%BC%20%EC%9B%90%EC%9D%B8%EC%9D%98%20%EA%B5%AC%EC%A1%B0%EA%B9%8C%EC%A7%80%20%ED%8C%8C%EA%B3%A0%EB%93%AD%EB%8B%88%EB%8B%A4)](https://wasa.kr)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=21&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=%EC%8B%A4%EC%A0%9C%20%EC%A3%BC%EB%AC%B8%EC%9D%B4%20%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94%20%EC%87%BC%ED%95%91%EB%AA%B0%EC%9D%84%20%ED%98%BC%EC%9E%90%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4%3BKT%20Cloud%20TECH%20UP%202%EA%B8%B0%20%ED%86%B5%ED%95%A9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%8C%80%EC%83%81%20%286%ED%8C%80%20%EC%A4%91%201%EC%9C%84%29%3B%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EC%9A%B0%EC%88%98%20%EC%88%98%EB%A3%8C%EC%83%9D%20%28%EC%88%98%EB%A3%8C%EC%83%9D%2013%EB%AA%85%20%EC%A4%91%201%EB%AA%85%29)](https://wasa.kr)
 
 <a href="https://wasa.kr"><img src="https://img.shields.io/badge/wasa.kr-0A4DA6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://parksiyeol.notion.site/Frontend-Developer-2af75e8758678080af49ff7589305835"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
@@ -26,7 +26,7 @@
 
 오래 곁에 두고 싶은 기물과 오브제를 큐레이션합니다
 
-<sub>`Next.js` `TypeScript` `Supabase` `Tailwind` `Toss Payments` `Playwright`<br>기획·개발·결제·운영 전부 담당 &nbsp;·&nbsp; 머지된 PR 524 &nbsp;·&nbsp; 12주 &nbsp;·&nbsp; 실결제 운영 중</sub>
+<sub>`Next.js` `TypeScript` `Supabase` `Tailwind` `Toss Payments` `Playwright`<br>대표님께 먼저 제안해 기획부터 운영까지 담당 &nbsp;·&nbsp; 2026.09 정식 운영 &nbsp;·&nbsp; 실제 주문을 받아 발송 중</sub>
 
 </td>
 </tr>
@@ -37,26 +37,11 @@
 </td>
 <td valign="top">
 
-**[Star-art](https://github.com/star-art-for-children/Frontend)** &nbsp;·&nbsp; 팀장 &nbsp;·&nbsp; kt cloud TECH UP 2기
+**[Star-art](https://github.com/star-art-for-children/Frontend)** &nbsp;·&nbsp; 팀장 &nbsp;·&nbsp; KT Cloud TECH UP 2기 &nbsp;·&nbsp; [star-art.cloud](https://star-art.cloud)
 
 아이들을 위한 3D 미술 전시회
 
-<sub>`Next.js` `TypeScript` `three.js / R3F` `Supabase`<br>액자 렌더링 · 앨범 PDF · 스탬프북 · fal.ai 영상 파이프라인 &nbsp;·&nbsp; CPU 6배 저하에서 109 FPS</sub>
-
-</td>
-</tr>
-
-<tr>
-<td width="64" align="center" valign="top">
-<a href="https://github.com/MENHERING/menhering-app"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-menhering.png" width="46" /></a>
-</td>
-<td valign="top">
-
-**[멘헤링](https://github.com/MENHERING/menhering-app)** &nbsp;·&nbsp; FE 4인 &nbsp;·&nbsp; kt cloud TECH UP 2기
-
-나만의 캐릭터와 함께하는 학습 습관 형성 PWA
-
-<sub>`Next.js` `TypeScript` `Tailwind v4` `Zustand` `TanStack Query` `Supabase` `Serwist`<br>카카오 OIDC 232줄 직접 구현 · 홈·알림 · 사운드 시스템 &nbsp;·&nbsp; Lighthouse BP 100 · CLS 0</sub>
+<sub>`Next.js` `TypeScript` `three.js / R3F` `Supabase` `fal.ai`<br>작품 액자 · 아이 그림을 5초 영상으로 바꾸는 기능 · 스탬프 투어 · 관람 앨범 PDF &nbsp;·&nbsp; 4명으로 시작해 3명으로 완주</sub>
 
 </td>
 </tr>
@@ -67,11 +52,41 @@
 </td>
 <td valign="top">
 
-**[뭉치](https://github.com/V-MoongCheap/MoongCheap-frontend)** &nbsp;·&nbsp; FE 2인 &nbsp;·&nbsp; 현재 진행 중
+**[뭉치](https://github.com/V-MoongCheap/MoongCheap-frontend)** &nbsp;·&nbsp; 프론트엔드 파트장 &nbsp;·&nbsp; KT Cloud TECH UP 2기 통합 프로젝트 **대상**
 
 뭉치면 싸진다 (수요 집결형 공동구매 플랫폼)
 
-<sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `Zod` `react-hook-form`<br>초기 4계층 아키텍처 · 디자인 토큰 · CI · AI 코드리뷰 세팅 &nbsp;·&nbsp; 8개 파트 통합 프로젝트</sub>
+<sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `TanStack Query` `Zod`<br>8개 직군 통합 프로젝트 · 개발 환경과 폴더 구조 세팅 · 구매자 화면 API 연동 &nbsp;·&nbsp; 머지된 프론트엔드 PR 120건 중 67건</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://chonnomchips.vercel.app"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-chonnomchips.png" width="46" /></a>
+</td>
+<td valign="top">
+
+**[촌놈칩스](https://chonnomchips.vercel.app)** &nbsp;·&nbsp; 외주 &nbsp;·&nbsp; 3명 중 프론트엔드 담당 &nbsp;·&nbsp; 진행 중
+
+감자칩 브랜드 촌놈칩스의 기업 사이트와 자사몰
+
+<sub>`Next.js 16` `React 19` `TypeScript` `Tailwind v4` `GitHub Actions` `Playwright`<br>1안 화면을 나흘 동안 제작 · 클라이언트 피드백 두 번 반영 · 디자인 시안 직접 제작 &nbsp;·&nbsp; 머지된 PR 13건 중 10건 &nbsp;·&nbsp; 링크는 정식 공개 전 시연 주소</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="64" align="center" valign="top">
+<a href="https://github.com/MENHERING/menhering-app"><img src="https://raw.githubusercontent.com/ParkSiYeol3/ParkSiYeol3/main/assets/logo-menhering.png" width="46" /></a>
+</td>
+<td valign="top">
+
+**[멘헤링](https://github.com/MENHERING/menhering-app)** &nbsp;·&nbsp; FE 4인 &nbsp;·&nbsp; KT Cloud TECH UP 2기
+
+나만의 캐릭터와 함께하는 학습 습관 형성 PWA
+
+<sub>`Next.js` `TypeScript` `Tailwind v4` `Zustand` `TanStack Query` `Supabase` `Serwist`<br>카카오 로그인 직접 구현 · 온보딩 · 홈 · 푸시 알림 · 사운드 &nbsp;·&nbsp; PR 66건 중 25건</sub>
 
 </td>
 </tr>
@@ -86,12 +101,20 @@
 
 P2P 옷 대여 플랫폼
 
-<sub>`React Native (Expo)` `JavaScript` `Node.js` `Firebase`<br>마이페이지 · 리뷰 · 찜 담당 &nbsp;·&nbsp; 특허 출원 10-2025-0071874 &nbsp;·&nbsp; 저작권 C-2025-024297</sub>
+<sub>`React Native (Expo)` `JavaScript` `Node.js` `Firebase`<br>마이페이지 · 리뷰 · 찜 담당 &nbsp;·&nbsp; 특허 출원 10-2025-0071874 &nbsp;·&nbsp; 저작권 등록 C-2025-024297</sub>
 
 </td>
 </tr>
 
 </table>
+
+---
+
+### 🏆 Awards
+
+- **2026.10** &nbsp; KT Cloud TECH UP 2기 통합 프로젝트 **대상** (6팀 중 1위, 뭉치)
+- **2026.10** &nbsp; KT Cloud TECH UP 2기 프론트엔드 **우수 수료생** (수료생 13명 중 1명)
+- **2026.08** &nbsp; KT Cloud TECH UP 2기 아이디어톤 **최우수상** (6팀 중 2위, Safeshot)
 
 ---
 
@@ -114,6 +137,10 @@ P2P 옷 대여 플랫폼
 **Payment · Test · Infra**
 
 <img src="https://img.shields.io/badge/Toss%20Payments-0064FF?style=flat-square" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+
+**AI**
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square" /> <img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=flat-square" /> <img src="https://img.shields.io/badge/fal.ai-111111?style=flat-square" />
 
 </div>
 
